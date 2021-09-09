@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "Name": "Digu",
+      "Email": "Digu@gmail.com",
+      "MobileNo": "21324345345",
+      "Salary": "10000"
+    },
+    {
+      "id": 2,
+      "Name": "poorv",
+      "Email": "poorv@gmail.com",
+      "MobileNo": "34645767667",
+      "Salary": "30000"
+    },
+    {
+      "id": 3,
+      "Name": "Rushab",
+      "Email": "rushab@gmail.com",
+      "MobileNo": "34546576576",
+      "Salary": "23000"
+    },
+    {
+      "id": 4,
+      "Name": "ankit",
+      "Email": "ankit@gmail.com",
+      "MobileNo": "657686786",
+      "Salary": "15000"
+    },
+    {
+      "id": 6,
+      "Name": "Surya",
+      "Email": "Sur@gmail.com",
+      "MobileNo": "65857847998",
+      "Salary": "78000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
